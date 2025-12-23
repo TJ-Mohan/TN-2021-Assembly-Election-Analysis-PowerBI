@@ -35,4 +35,11 @@ Interactive Power BI dashboard analyzing the 2021 Tamil Nadu General Assembly el
 ## DATA SET 
 
 Source : **Official Data from the Election Commission of India**
--<a href = "https://old.eci.gov.in/files/file/13680-tamil-nadu-general-legislative-election-2021/">Data_set_link</a>
+-<a href = "https://old.eci.gov.in/files/file/13680-tamil-nadu-general-legislative-election-2021/">Data_set_link</a>  
+
+
+## SCREENSHOTS 
+
+<img width="1391" height="862" alt="Screenshot 2025-12-23 171627" src="https://github.com/user-attachments/assets/cebd8f07-1c8a-41f1-930a-11e44285579a" />
+
+
