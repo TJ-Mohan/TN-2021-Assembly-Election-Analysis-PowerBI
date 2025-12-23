@@ -23,15 +23,17 @@ Interactive Power BI dashboard analyzing the 2021 Tamil Nadu General Assembly el
 * How did parties perform vote-wise within a selected constituency?
 * Who are the winner, runner-up, and third-place candidates, and what are their margins?
 * How does gender-wise voter participation compare within the constituency?
+* What are the constituencies where the winner was determined by a very less margin ? (Give an option to the user to choose the margin)
 
 #### Comparative Analysis
 
 * How do parties rank across different KPIs such as seats won, vote share, and strike rate?
 * How does party ranking change when comparison metrics are switched dynamically?
 * Which are the Top-N (0–25) constituencies based on electors, votes polled, or vote percentage?
+* Give an insight on the third place results.
 
 ## DATA SET 
 
-Source : Official Data from the Election Commission of India
+Source : **Official Data from the Election Commission of India**
 Link --> https://old.eci.gov.in/files/file/13680-tamil-nadu-general-legislative-election-2021/
 
