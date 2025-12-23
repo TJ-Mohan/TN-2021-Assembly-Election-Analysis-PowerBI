@@ -71,5 +71,10 @@ https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/
 * Identified highly competitive, low-margin constituencies using user-defined thresholds to surface critical electoral insights.
 * Designed a scalable and reusable BI framework applicable to future elections or similar analytical domains.
 
+## FUTURE ENHANCEMENTS
+
+* What-If Alliance Simulation
+An interactive scenario analysis that allows users to form custom political alliances and instantly evaluate their hypothetical impact on seats won, vote share, and overall election outcomes.
+
 
 
