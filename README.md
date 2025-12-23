@@ -37,13 +37,35 @@ Interactive Power BI dashboard analyzing the 2021 Tamil Nadu General Assembly el
 Source : **Official Data from the Election Commission of India**
 -<a href = "https://old.eci.gov.in/files/file/13680-tamil-nadu-general-legislative-election-2021/">Data_set_link</a>  
 
+## TECH STACK
+
+ Tech Stack
+
+* Power BI Desktop – Data modeling, interactive dashboard development
+* DAX (Advanced) – CALCULATE, RANKX, FILTER, ALL, dynamic measures, performance optimization
+* Power Query  – Data transformation and cleansing
+* Data Modeling – Star schema, relationships, calculated measures
+* Interactivity – Bookmarks, Field Parameters, What-If (Top-N) parameters, slicers, drill-through
+* Visuals & Maps – Bar, clustered bar, gauge, pie, donut, matrix, JSON/shape maps
+* Version Control – Git & Github
+
 
 ## SCREENSHOTS 
 
-<img width="1391" height="862" alt="Screenshot 2025-12-23 171627" src="https://github.com/user-attachments/assets/cebd8f07-1c8a-41f1-930a-11e44285579a" />
+
 <img width="1382" height="865" alt="Screenshot 2025-12-23 171514" src="https://github.com/user-attachments/assets/783271a1-698a-4c02-b71c-c0a66a4db093" />
 <img width="1396" height="863" alt="Screenshot 2025-12-23 171540" src="https://github.com/user-attachments/assets/fef2a5ba-52dd-4476-8537-643827d83647" />
 <img width="1382" height="865" alt="Screenshot 2025-12-23 171604" src="https://github.com/user-attachments/assets/b39f7562-63e4-48f9-b4a8-a04bc55f1c9e" />
+<img width="1391" height="862" alt="Screenshot 2025-12-23 171627" src="https://github.com/user-attachments/assets/cebd8f07-1c8a-41f1-930a-11e44285579a" />
+
+## BUSINESS IMPACT 
+
+
+* Delivered a performance-optimized Power BI dashboard enabling state, party, and constituency-level election analysis through interactive and drill-down reporting.
+* Enabled self-service analytics using dynamic slicers, bookmarks, and parameters, reducing dependency on static reports.
+* Implemented dynamic KPI and ranking comparisons (seats won, vote share, strike rate) to support data-driven evaluation of party performance.
+* Identified highly competitive, low-margin constituencies using user-defined thresholds to surface critical electoral insights.
+* Designed a scalable and reusable BI framework applicable to future elections or similar analytical domains.
 
 
 
