@@ -73,26 +73,26 @@ https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/
 
 ## KEY TAKE-AWAYS 
 
-▪ Strike Rate Matters
-Despite DMK leading the alliance, the Indian National Congress recorded a higher strike rate—winning 18 out of 25 constituencies (72%), highlighting efficiency over scale.
+#### Strike Rate Matters
+* Despite DMK leading the alliance, the Indian National Congress recorded a higher strike rate—winning 18 out of 25 constituencies (72%), highlighting efficiency over scale.
 
-▪ The Rise of a Young Third Force
-Naam Tamilar Katchi (NTK) emerged as the third-largest party by presence, with an average contestant age of 34 and a 6.5% vote share. The party secured third place in 177 constituencies, yet did not convert this into a single seat win.
+#### The Rise of a Young Third Force
+* Naam Tamilar Katchi (NTK) emerged as the third-largest party by presence, with an average contestant age of 34 and a 6.5% vote share. The party secured third place in 177 constituencies, yet did not convert this into a single seat win.
 
-▪ Gender Representation Leadership
-NTK stands out for near-equal gender representation, with 118 male and 116 female candidates, setting a benchmark for electoral inclusivity.
+#### Gender Representation Leadership
+* NTK stands out for near-equal gender representation, with 118 male and 116 female candidates, setting a benchmark for electoral inclusivity.
 
-▪ Seats vs Vote Share Paradox
-DMK secured 133 seats compared to 66 by ADMK, yet the vote share gap between the two stands at just 5% (38% vs 33%), underscoring the impact of constituency-level margins and alliances.
+#### Seats vs Vote Share Paradox
+* DMK secured 133 seats compared to 66 by ADMK, yet the vote share gap between the two stands at just 5% (38% vs 33%), underscoring the impact of constituency-level margins and alliances.
 
-▪ Alliance Effectiveness
-In the Secular Progressive Alliance (DMK-led), 9 of 13 parties contributed winning seats, whereas in the NDA (ADMK-led), only 3 of 10 parties made a seat contribution—raising questions about alliance depth versus dependency.
+#### Alliance Effectiveness
+* In the Secular Progressive Alliance (DMK-led), 9 of 13 parties contributed winning seats, whereas in the NDA (ADMK-led), only 3 of 10 parties made a seat contribution—raising questions about alliance depth versus dependency.
 
-▪ Close Contests to Watch
-39 constituencies were decided by margins under 5,000 votes, making them critical battlegrounds for future electoral strategies.
+#### Close Contests to Watch
+* 39 constituencies were decided by margins under 5,000 votes, making them critical battlegrounds for future electoral strategies.
 
-▪ Highest Voter Engagement
-Palacode recorded the highest voter turnout in the state at 87%, reflecting exceptional civic participation.
+#### Highest Voter Engagement
+* Palacode recorded the highest voter turnout in the state at 87%, reflecting exceptional civic participation.
 
 ## FUTURE ENHANCEMENTS
 
