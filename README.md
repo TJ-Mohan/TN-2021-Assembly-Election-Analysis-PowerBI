@@ -73,7 +73,7 @@ https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/
 
 ## FUTURE ENHANCEMENTS
 
-* What-If Alliance Simulation
+* What-If Alliance Simulation :
 An interactive scenario analysis that allows users to form custom political alliances and instantly evaluate their hypothetical impact on seats won, vote share, and overall election outcomes.
 
 
