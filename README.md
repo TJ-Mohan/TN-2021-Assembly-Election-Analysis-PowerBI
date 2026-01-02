@@ -52,8 +52,7 @@ Source : **Official Data from the Election Commission of India**
 
 ## SCREENSHOTS 
 
-
-<img width="1382" height="865" alt="Screenshot 2025-12-23 171514" src="https://github.com/user-attachments/assets/783271a1-698a-4c02-b71c-c0a66a4db093" />
+<img width="1401" height="865" alt="image" src="https://github.com/user-attachments/assets/d37d94dc-eb80-4998-b621-6b5cb213487a" />
 <img width="1396" height="863" alt="Screenshot 2025-12-23 171540" src="https://github.com/user-attachments/assets/fef2a5ba-52dd-4476-8537-643827d83647" />
 <img width="1382" height="865" alt="Screenshot 2025-12-23 171604" src="https://github.com/user-attachments/assets/b39f7562-63e4-48f9-b4a8-a04bc55f1c9e" />
 <img width="1391" height="862" alt="Screenshot 2025-12-23 171627" src="https://github.com/user-attachments/assets/cebd8f07-1c8a-41f1-930a-11e44285579a" />
