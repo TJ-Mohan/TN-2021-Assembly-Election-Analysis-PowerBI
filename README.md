@@ -62,6 +62,10 @@ Source : **Official Data from the Election Commission of India**
 
 https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/download/v1.0/Screen.Recording.2025-12-23.205201.mp4
 
+## COMPLETE DASHBOARD EXPLANATION
+
+https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/download/V01.1/Complete.Dashboard.Walkthrough.mp4
+
 ## BUSINESS IMPACT 
 
 
