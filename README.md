@@ -63,7 +63,7 @@ https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/
 
 ## COMPLETE DASHBOARD EXPLANATION
 
-https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/download/V01.1/Complete.Dashboard.Walkthrough.mp4
+[https://github.com/TJ-Mohan/TN-2021-Assembly-Election-Analysis-PowerBI/releases/download/V01.1/Complete.Dashboard.Walkthrough.mp4](https://drive.google.com/file/d/1qEagHz3vylRWRxSWng3QAyemwjl3nAtE/view?usp=drive_link)
 
 ## BUSINESS IMPACT 
 
